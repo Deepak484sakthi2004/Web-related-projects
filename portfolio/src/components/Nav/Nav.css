@@ -1,0 +1,26 @@
+
+.personal-container
+{   
+    list-style: none;
+    padding: 0;
+    display: inline;
+    margin-top: 0px;
+}
+
+.personal-container ul{
+    background-color: #282c34;
+    color:white;
+    margin-top: 0ch;
+    margin-inline-end: auto;
+}
+.personal-container li {
+    display: inline;
+    margin-right: 55px;
+    padding-right: 10px;
+
+
+  }
+
+
+  
+  
